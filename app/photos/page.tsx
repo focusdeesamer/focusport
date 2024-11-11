@@ -17,7 +17,7 @@ export default function Photos() {
           {
             src: "/photos/photo1.jpg",
             alt: "Roman columns",
-            href: "https://unsplash.com/photos/people-walking-near-building-during-daytime-dFLBDQQeffU?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
+            
           },
           {
             src: "/photos/photo2.jpg",
