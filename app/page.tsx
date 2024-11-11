@@ -1,9 +1,7 @@
 import Image from "next/image";
-
 export default function Page() {
   return (
     <section>
-      
         <Image
           src="/profile.png"
           alt="Profile photo"
